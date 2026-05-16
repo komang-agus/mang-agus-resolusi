@@ -4,4 +4,5 @@ Rencana PKL Mang Agus
 - Menguasai semua bahasa termauk bahasa manusia
   * bahasa Bayi
   * bahasa suku Sentinel
+  * bahasa tangan
 - Membuat claude ai pakai tangan sendiri
