@@ -2,3 +2,5 @@ Rencana PKL Mang Agus
 
 - Ingin PKL dengan gaji minimal 5 digit
 - Menguasai semua bahasa termauk bahasa manusia
+  * bahasa Bayi
+  * bahasa suku Sentinel
